@@ -9,4 +9,4 @@ const giveMeARandomString = (length) => {
     return result;
 }
 
-module.exports = giveMeARandomString;
+module.exports.giveMeARandomString = giveMeARandomString;
