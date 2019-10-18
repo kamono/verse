@@ -1,0 +1,19 @@
+{
+  "name": "kamonoverse",
+  "version": "1.0.0",
+  "description": "Just another package on npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamono/verse.git"
+  },
+  "author": "nate kamono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamono/verse/issues"
+  },
+  "homepage": "https://github.com/kamono/verse#readme"
+}
