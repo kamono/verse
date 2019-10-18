@@ -1,7 +1,4 @@
 #!/bin/sh
 
-
-echo 'worked!';
-
-#exit 1
-#exit 0
+version=npm\ show\ kamonoverse\ version
+echo 'Do not forget to increment your package version:' $version
