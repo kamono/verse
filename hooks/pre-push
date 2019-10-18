@@ -1,4 +1,4 @@
 #!/bin/sh
 
 version=npm\ show\ kamonoverse\ version
-echo 'Do not forget to increment your package version:' $version
+echo -e "\033[1;31m Do not forget to increment your package version:" $version
