@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/kamono/verse/issues"
   },
-  "homepage": "https://github.com/kamono/verse#readme"
+  "homepage": "https://github.com/kamono/verse#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3"
+  }
 }
